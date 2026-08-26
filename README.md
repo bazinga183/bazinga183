@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Eduardo Flores!
 - 🤘 UT Austin MS in Business Analytics graduate. Specialize in data analytics, machine learning, artificial intelligence, and ETL.
-- 🌱 I currently work with Python, SQL, and HTML.
-- 💞️ I’m looking to collaborate on any projects that would help broaden my experience in coding, as my main goal is to learn as much as possible.
+- 🌱 I currently work with Python, SQL, and HTML/JS/CSS.
+- 💞️ I’m always looking to build projects that would help broaden my experience in coding and analysis, as my main goal is to learn as much as possible.
 - 📫 How to reach me: this account or send an email to eddie.flores183@gmail.com.
 
 <!---
